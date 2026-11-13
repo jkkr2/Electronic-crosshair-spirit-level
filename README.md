@@ -18,6 +18,10 @@ possible combination for a proof-of-concept (POC) version.
  - Jumper wires.
 
 ## Wiring
-The display and the sensor get their power from the ESP32 3.3V connector. For the POC the ESP32 can be power by USV/5V.
+The display and the sensor get their power from the ESP32 3.3V connector. For the POC the ESP32 can be powered by USB/5V.
+
 ![description](electronic_level_bb.png)
+
 The Fritzing diagram explains one possible setup with an ESP32 Dev board with 30 PINs.
+
+Thanks to the great Fritzing and the team behind it.
