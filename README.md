@@ -24,4 +24,6 @@ The display and the sensor get their power from the ESP32 3.3V connector. For th
 
 The Fritzing diagram explains one possible setup with an ESP32 Dev board with 30 PINs.
 
-Thanks to the great Fritzing and the team behind it.
+## Acknowledgment
+Thanks to the great Fritzing code and the team behind it. Thanks for all the contributors to the Fritzing community parts. 
+Thanks goes also to the Arduino IDE develpers and all library contributors. Thanks to all I forgot to mention here.
