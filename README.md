@@ -24,6 +24,10 @@ The display and the sensor get their power from the ESP32 3.3V connector. For th
 
 The Fritzing diagram explains one possible setup with an ESP32 Dev board with 30 PINs.
 
+## Compilation
+The *.ino file can be opened in the Ardino IDE ( [link](https://www.arduino.cc/en/software/) version 2). To compile it, one 
+needs to install SensorFusion, Adafriut GFX and GC9A01A libraries first.
+
 ## Acknowledgment
 Thanks to the great Fritzing code and the team behind it. Thanks for all the contributors to the Fritzing community parts. 
 Thanks goes also to the Arduino IDE develpers and all library contributors. Thanks to all I forgot to mention here.
