@@ -31,3 +31,6 @@ needs to install SensorFusion, Adafriut GFX and GC9A01A libraries first.
 ## Acknowledgment
 Thanks to the great Fritzing code and the team behind it. Thanks for all the contributors to the Fritzing community parts. 
 Thanks goes also to the Arduino IDE develpers and all library contributors. Thanks to all I forgot to mention here.
+
+## Disclaimer
+The C++ code for the Arduino sketch was created with help of AI.
